@@ -6,13 +6,13 @@
 `"vuepress": "^1.5.3"`
 
 ## 導入手順
-### 1. docsディレクトリ移動
-`cd docs`
+```
+# 1. docsディレクトリ移動
+cd docs
 
-### 2. インストール 
+# 2. インストール 
+yarn install // npm insstall でもいい
 
-`npm insstall` or `yarn install`
-
-### 3. 環境立ち上げ 
-
-`npm run dev` or `yarn dev`
+# 3. 環境立ち上げ 
+yarn dev // npm run dev でもいい
+```
