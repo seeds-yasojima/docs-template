@@ -2,6 +2,9 @@
 ## 概要
 ドキュメントサイトを手軽に作れるようなテンプレートを作りたい。随時更新
 
+### 使用技術
+[vuepress](https://v1.vuepress.vuejs.org/)
+
 ### version
 `"vuepress": "^1.5.3"`
 
