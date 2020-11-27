@@ -15,4 +15,7 @@ yarn install // npm insstall でもいい
 
 # 3. 環境立ち上げ 
 yarn dev // npm run dev でもいい
+
+# ビルド
+yarn build // distディレクトリが生成されて静的ファイルが書き出される
 ```
